@@ -13,3 +13,4 @@ These attributes could be those that are readily available in the data (e.g. age
 Visualise any interesting correlations using a scatter plot.
 Build a simple regression model to predict the annual salary for each customer using the attributes you identified above
 How accurate is your model? Should ANZ use it to segment customers (for whom it does not have this data) into income brackets for reporting purposes?
+-----------------------------------------------------------------------------------------------------------------------------------------------------
